@@ -63,7 +63,7 @@ I love building web applications and solving real-world problems using modern te
 
 ## 🌐 Connect With Me
 - LinkedIn: [your link]
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Darshil chaudhry
 
 ---
 
