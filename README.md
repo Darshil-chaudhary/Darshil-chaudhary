@@ -57,7 +57,7 @@ I love building web applications and solving real-world problems using modern te
 
 ## 📊 GitHub Stats
 
-![Darshill's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Darshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshil-chaudhary&show_icons=true&theme=radical)
 
 ---
 
